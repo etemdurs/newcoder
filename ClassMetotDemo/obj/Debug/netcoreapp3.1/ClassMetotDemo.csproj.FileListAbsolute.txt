@@ -1,0 +1,12 @@
+/Users/etem/Projects/ClassMetotDemo/ClassMetotDemo/bin/Debug/netcoreapp3.1/ClassMetotDemo.deps.json
+/Users/etem/Projects/ClassMetotDemo/ClassMetotDemo/bin/Debug/netcoreapp3.1/ClassMetotDemo.runtimeconfig.json
+/Users/etem/Projects/ClassMetotDemo/ClassMetotDemo/bin/Debug/netcoreapp3.1/ClassMetotDemo.runtimeconfig.dev.json
+/Users/etem/Projects/ClassMetotDemo/ClassMetotDemo/bin/Debug/netcoreapp3.1/ClassMetotDemo.dll
+/Users/etem/Projects/ClassMetotDemo/ClassMetotDemo/bin/Debug/netcoreapp3.1/ClassMetotDemo.pdb
+/Users/etem/Projects/ClassMetotDemo/ClassMetotDemo/obj/Debug/netcoreapp3.1/ClassMetotDemo.csprojAssemblyReference.cache
+/Users/etem/Projects/ClassMetotDemo/ClassMetotDemo/obj/Debug/netcoreapp3.1/ClassMetotDemo.AssemblyInfoInputs.cache
+/Users/etem/Projects/ClassMetotDemo/ClassMetotDemo/obj/Debug/netcoreapp3.1/ClassMetotDemo.AssemblyInfo.cs
+/Users/etem/Projects/ClassMetotDemo/ClassMetotDemo/obj/Debug/netcoreapp3.1/ClassMetotDemo.csproj.CoreCompileInputs.cache
+/Users/etem/Projects/ClassMetotDemo/ClassMetotDemo/obj/Debug/netcoreapp3.1/ClassMetotDemo.dll
+/Users/etem/Projects/ClassMetotDemo/ClassMetotDemo/obj/Debug/netcoreapp3.1/ClassMetotDemo.pdb
+/Users/etem/Projects/ClassMetotDemo/ClassMetotDemo/obj/Debug/netcoreapp3.1/ClassMetotDemo.genruntimeconfig.cache

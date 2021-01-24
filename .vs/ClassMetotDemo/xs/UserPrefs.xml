@@ -1,0 +1,27 @@
+﻿<Properties StartupConfiguration="{2D06DC1B-E897-4A08-A5D7-0FFF98D77E9F}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="ClassMetotDemo/MusteriManager.cs">
+    <Files>
+      <File FileName="ClassMetotDemo/Program.cs" Line="27" Column="31" />
+      <File FileName="ClassMetotDemo/Musteri.cs" Line="2" Column="1" />
+      <File FileName="ClassMetotDemo/MusteriManager.cs" Line="7" Column="10" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ClassMetotDemo" expanded="True">
+            <Node name="ClassMetotDemo" expanded="True">
+              <Node name="MusteriManager.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.ClassMetotDemo PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>
